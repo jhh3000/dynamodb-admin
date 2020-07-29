@@ -39,6 +39,8 @@
     "errorhandler": "^1.5.1",
     "express": "^4.17.1",
     "lodash.pickby": "^4.6.0",
+    "dynamodb-marshaler": "^2.0.0",
+    "papaparse": "^4.1.4",
     "open": "^7.0.2"
   },
   "devDependencies": {
